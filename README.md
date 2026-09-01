@@ -100,7 +100,7 @@ The combination of a **global planner** with the **DWA local planner** provides 
 
 The following videos demonstrate the navigation performance:
 
-* 🎥 **Dynamic_obstcle_avoidance:**
+* **Dynamic_obstcle_avoidance:**
   
  https://github.com/user-attachments/assets/bd24097f-4398-4cf4-a7af-7b2e08f175fd</b>
 
@@ -108,7 +108,7 @@ The following videos demonstrate the navigation performance:
   <b>The robot autonomously navigating while safely avoiding a person in its path</b>
 </p>
 
-* 🎥 **Dynamic Obstacle Detection in rviz:**
+* **Dynamic Obstacle Detection in rviz:**
 
 
 https://github.com/user-attachments/assets/4f053155-f670-471c-8b7d-a166592a7b9a
@@ -116,7 +116,7 @@ https://github.com/user-attachments/assets/4f053155-f670-471c-8b7d-a166592a7b9a
 
 These results confirm that the implemented navigation system provides reliable autonomous movement and reactive obstacle avoidance for the project's indoor environment.
 
-## 🤖 Robotic Arm Pick-and-Place
+## Robotic Arm Pick-and-Place
 
 The robotic arm provides the mobile manipulator with the ability to physically interact with objects in the environment and perform autonomous **pick-and-place operations**. The manipulation system combines **object recognition, depth perception, inverse kinematics, motion planning, and gripper control** to determine the object's position and generate a safe trajectory for grasping.
 
@@ -128,11 +128,11 @@ For the complete pick-and-place pipeline, the object is first **recognized by th
 
 This allows the robot to autonomously detect an object, move the arm to the object's position, grasp it, lift it, transport it to the designated location, and release it. The complete system was successfully tested on the physical robot, demonstrating the integration of **object recognition, 3D perception, inverse kinematics, motion planning, and robotic grasping**.
 
-### 🎥 Pick-and-Place Demonstration
+### Pick-and-Place Demonstration
 
 The following video demonstrates the complete pick operation, starting from **object recognition**, followed by arm positioning, grasping,and lifting.
 
-**▶️ Pick After Object Recognition:** 
+** Pick After Object Recognition:** 
 
 
 https://github.com/user-attachments/assets/cff93973-2504-4fcf-ae37-b40e61f5f265
